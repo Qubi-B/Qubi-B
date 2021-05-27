@@ -8,7 +8,7 @@
 
   <br>
   
-# 💻 Best Projects
+# 💻 Projects
   ## ⚡ kubusweather:
   #### 📦 contains: 
   - air quality sensor I made
