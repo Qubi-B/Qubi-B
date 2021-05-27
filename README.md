@@ -1,5 +1,5 @@
 # Hi there, I'm Qubi.B 👋
-  - 🔭 I’m currently working on: see 'best projects' - I'm making them all better
+  - 🔭 I’m currently working on: see 'main projects' below
   - 🌱 I’m currently learning: python and javascript
   - 💬 Ask me about: anything
   - ⚡ Fun fact: I don't know what am I doing but it works
@@ -8,7 +8,7 @@
 
   <br>
   
-# 💻 Projects
+# 💻 Main Projects
   ## ⚡ kubusweather:
   #### 📦 contains: 
   - air quality sensor I made
