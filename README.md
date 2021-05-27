@@ -3,7 +3,7 @@
   - 🌱 I’m currently learning: python and javascript
   - 💬 Ask me about: anything
   - ⚡ Fun fact: I don't know what am I doing but it works
-  - 🖥️ Coding Languages: c++, c#, php, java, python
+  - 🖥️ Languages: c++, c#, php, html, css, java, python
   - 🎮 Hobbys: Coding, electronics, physics, 3D printing and 3D design, sometimes games
 
   <br>
