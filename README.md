@@ -23,7 +23,7 @@
   - priority: 1/2 (lower = higher)
   - started: June 2021
 ##  
-  ## ⚡ kubusweather (disabled):
+  ## ⚡ kubusweather (temp. disabled):
   #### 📦 contains: 
   - air quality sensor I made
   - website written in PHP to display readings
