@@ -1,4 +1,4 @@
-*last update: 29.06.2021*
+*last update: 19.08.2021*
 # Hi there, I'm Qubi.B 👋
   - 🔭 I’m currently working on: see 'main projects' below
   - 🌱 I’m currently learning: python and javascript
