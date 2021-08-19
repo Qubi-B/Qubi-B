@@ -9,15 +9,6 @@
   <br>
   
 # 💻 Main Projects
-  ## ⚡ kubusweather:
-  #### 📦 contains: 
-  - air quality sensor I made
-  - website written in PHP to display readings
-  - MySQL database
-  #### ℹ️ info:
-  - effort: mid
-  - started: late June 2020
-##  
   ## 🔒 Gas bike computer:
   #### 📦 contains:
   - arduino code which:
@@ -29,16 +20,26 @@
   - 3D design of cases, boxes etc.
   - bike with trimmer gas engine 
   #### ℹ️ info:
-  - effort: high
+  - priority: 1/2 (lower = higher)
   - started: June 2021
 ##  
-  ## 🔒 letsGetPrivate:
+  ## ⚡ kubusweather (disabled):
+  #### 📦 contains: 
+  - air quality sensor I made
+  - website written in PHP to display readings
+  - MySQL database
+  #### ℹ️ info:
+  - priority: 2/2
+  - started: late June 2020
+##  
+  ## 🔒 letsGetPrivate (deprecated):
   #### 📦 contains:
   - website with cool animations
   - instructions for people to become less tracked
   #### ℹ️ info:
-  - effort: mid/low
+  - priority: -/-
   - started: may 2021
+##
 
 <br>
 
@@ -48,7 +49,7 @@
 #### ✉️ e-mail:
 - j.barszcz@op.pl
 - kies.jb@gmail.com
-- kaba@kubusweather.pl
+- <s>kaba@kubusweather.pl</s>
 
 <br>
 
@@ -60,6 +61,6 @@
 - Ram: 16gb 2666Mhz ballistix sport (dual channel)
 
 ### 🖨️ My printer:
-- 2D: Canon MP620
+- <s>2D: Canon MP620</s> (rip [*]) 
 - 3D: Creality ender 3 v2
 
