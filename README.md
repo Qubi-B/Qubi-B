@@ -9,6 +9,19 @@
   <br>
   
 # 💻 Main Projects
+  ## ⏰ smart alarm clock:
+  #### 📦 contains: 
+  - app that you install on old android device
+  - alarms, clock customization
+  - plugin support
+  - weather, public transport, traffic info
+  - popular todo/calendar apps api
+  #### ℹ️ info:
+  - started: not yet, (scheduled for 12.2021/01.2022)
+
+##
+  
+  
   ## 🔒 Gas bike computer:
   #### 📦 contains:
   - arduino code which:
@@ -20,18 +33,6 @@
   #### ℹ️ info:
   - started: June 2021
 
-##
-
-  ##⏰ smart alarm clock:
-  #### 📦 contains: 
-  - app that you install on old android device
-  - alarms, clock customization
-  - plugin support
-  - weather, public transport, traffic info
-  - popular todo/calendar apps api
-  #### ℹ️ info:
-  - started: not yet, (scheduled for 12.2021/01.2022)
-  
 ##  
 
   ## ⚡ kubusweather (EOL):
