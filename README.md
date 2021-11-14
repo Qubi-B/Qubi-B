@@ -13,33 +13,37 @@
   #### 📦 contains:
   - arduino code which:
     - measures the speed
-    - warns when it's too high
-    - makes it possible to customize ui
     - calculates statistics
     - controls ws2812b front/back lights
   - 3D design of cases, boxes etc.
-  - bike with trimmer gas engine 
+  - bike with gas engine 
   #### ℹ️ info:
-  - priority: 1/2 (lower = higher)
   - started: June 2021
+
+##
+
+  ##⏰ smart alarm clock:
+  #### 📦 contains: 
+  - app that you install on old android device
+  - alarms, clock customization
+  - plugin support
+  - weather, public transport, traffic info
+  - popular todo/calendar apps api
+  #### ℹ️ info:
+  - started: not yet, (scheduled for 12.2021/01.2022)
+  
 ##  
-  ## ⚡ kubusweather (temp. disabled):
+
+  ## ⚡ kubusweather (EOL):
   #### 📦 contains: 
   - air quality sensor I made
   - website written in PHP to display readings
   - MySQL database
   #### ℹ️ info:
-  - priority: 2/2
   - started: late June 2020
+  - eol: August 2021
 ##  
-  ## 🔒 letsGetPrivate (deprecated):
-  #### 📦 contains:
-  - website with cool animations
-  - instructions for people to become less tracked
-  #### ℹ️ info:
-  - priority: -/-
-  - started: may 2021
-##
+
 
 <br>
 
