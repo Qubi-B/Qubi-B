@@ -1,11 +1,11 @@
 *last update: 19.08.2021*
 # Hi there, I'm Qubi.B 👋
-  - 🔭 I’m currently working on: see 'main projects' below
-  - 🌱 I’m currently learning: python and javascript
+  - 🔭 I’m currently working on: school (no projects in development)
+  - 🌱 I’m currently learning: javascript (paused bc of school)
   - 💬 Ask me about: anything
   - ⚡ Fun fact: I don't know what am I doing but it works
-  - 🖥️ Languages: c++, c#, php, html, css, java, python
-  - 🎮 Hobbys: Coding, electronics, physics, 3D printing and 3D design, sometimes games
+  - 🖥️ Languages: c++, c#, php, java, html, css, javascript, python
+  - 🎮 Hobbys: Coding, electronics, physics, 3D printing & design
   <br>
   
 # 💻 Main Projects
@@ -17,7 +17,8 @@
   - weather, public transport, traffic info
   - popular todo/calendar apps api
   #### ℹ️ info:
-  - started: not yet, (scheduled for 12.2021/01.2022)
+  - started: 10.12.2021
+  - halted: 15.12.2021
 
 ##
   
@@ -31,7 +32,8 @@
   - 3D design of cases, boxes etc.
   - bike with gas engine 
   #### ℹ️ info:
-  - started: June 2021
+  - started: 06.2021
+  - halted 10.2021
 
 ##  
 
@@ -42,7 +44,7 @@
   - MySQL database
   #### ℹ️ info:
   - started: late June 2020
-  - eol: August 2021
+  - eol: Aug 2021 [*]
 ##  
 
 
