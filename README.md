@@ -1,6 +1,6 @@
 *last update: 19.08.2021*
 # Hi there, I'm Qubi.B 👋
-  - 🔭 I’m currently working on: school (no projects in development)
+  - 🔭 I’m currently working on: school (trying to make an about me website)
   - 🌱 I’m currently learning: javascript (paused bc of school)
   - 💬 Ask me about: anything
   - ⚡ Fun fact: I don't know what am I doing but it works
