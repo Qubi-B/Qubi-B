@@ -1,5 +1,5 @@
 # Hi there, I'm Qubi.B 👋
-  - 🔭 I’m currently working on: PWA weather app ([Qubi-B/weather-app-one](https://github.com/Qubi-B/weather-app-one))
+  - 🔭 I’m currently working on: Weather app ([Qubi-B/WeatherPro](https://github.com/Qubi-B/WeatherPro))
   - 🌌 Going to college soon
   - 🖥️ Languages: c++, c#, php, java, html, css, javascript, python
   - 🎮 Hobbys: Coding, electronics, physics, 3D printing & design
