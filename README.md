@@ -1,5 +1,6 @@
 # Hi there, I'm Qubi.B 👋
 💻 I’m currently working on:
+- To-do app ([Qubi-B/simple-to-do](https://github.com/Qubi-B/simple-to-do))
 - Weather app ([Qubi-B/WeatherPro](https://github.com/Qubi-B/WeatherPro))
   
 <br>
